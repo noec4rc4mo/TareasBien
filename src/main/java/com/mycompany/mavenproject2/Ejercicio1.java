@@ -16,7 +16,7 @@ public class Ejercicio1 {
      */
     public static void main(String[] args) {
      // TODO code application logic here
-        System.out.println("Hola, Soy de la clase de Programación Orientada a Objetos");
+        System.out.println("Hola, Soy de la clase de Programación Orientada a Objetos.");
     }
     
 }
